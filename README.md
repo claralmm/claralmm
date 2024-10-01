@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on TTS projects.
+- 🔭 I’m currently working on a TTS project.
 - 🌱 I’m currently learning Python.
 ## How to reach me:
 
