@@ -5,8 +5,11 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on a TTS project.
-- 🌱 I’m currently learning Python.
+✨ I’m currently working on a Text-to-Speech (TTS) project.
+📊 I’m interested in Data Analysis with an emphasis on Natural Language Processing (NLP).
+🎓 My background is in Linguistics, Mass Communication, and Data Analysis.
+🤝 I’m open to collaborating on AI and Business Intelligence (BI) projects.
+
 ## How to reach me:
 
 <div>
