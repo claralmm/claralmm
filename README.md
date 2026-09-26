@@ -1,4 +1,4 @@
-## It is I, Clara. Welcome to my Github profile.👋
+## It is I, Clara. Welcome to my Github profile.
 
 <!--
 **claralmm/claralmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - I’m currently working on a Text-to-Speech (TTS) project.
 - I’m interested in Data Analysis with an emphasis on Natural Language Processing (NLP).
 - My background is in Linguistics, Mass Communication and Data Analysis.
-- 🤝 I’m open to collaborating on Computational Linguistics projects.
+- I’m open to collaborating on Computational Linguistics projects.
 
 ## How to reach me:
 
